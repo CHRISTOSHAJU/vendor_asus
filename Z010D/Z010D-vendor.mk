@@ -73,6 +73,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z010D/proprietary/lib/libmpbase.so:system/lib/libmpbase.so\
     vendor/asus/Z010D/proprietary/lib/libjpeggifcodec.so:system/lib/libjpeggifcodec.so\
     vendor/asus/Z010D/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so\
+    vendor/asus/Z010D/proprietary/vendor/lib/libOmxVpp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxVpp.so \
     vendor/asus/Z010D/proprietary/lib/libsarcsoftface.so:system/lib/libsarcsoftface.so\
     vendor/asus/Z010D/proprietary/lib/libsarcsoft_gallery.so:system/lib/libsarcsoft_gallery.so\
     vendor/asus/Z010D/proprietary/lib/libsphere3.so:system/lib/libsphere3.so\
