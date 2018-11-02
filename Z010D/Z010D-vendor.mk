@@ -486,6 +486,10 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z010D/proprietary/lib64/libcmdthread.so:system/lib64/libcmdthread.so\
     vendor/asus/Z010D/proprietary/etc/sensors/hals.conf:system/etc/sensors/hals.conf\
     vendor/asus/Z010D/proprietary/vendor/etc/calmodule.cfg:system/vendor/etc/calmodule.cfg
+#    vendor/asus/Z010D/proprietary/vendor/lib/libfacenet-32.so:system/vendor/lib/libfacenet-32.so \
+#    vendor/asus/Z010D/proprietary/vendor/lib64/libfacenet-64.so:system/vendor/lib64/libfacenet-32.so \
+#    vendor/asus/Z010D/proprietary/vendor/lib/libprotobuf-cpp-haxx.so:system/vendor/lib/libprotobuf-cpp-haxx.so \
+#    vendor/asus/Z010D/proprietary/vendor/lib64/libprotobuf-cpp-haxx.so:system/vendor/lib64/libprotobuf-cpp-haxx.so \
 
 # Firmware
 PRODUCT_COPY_FILES += \
